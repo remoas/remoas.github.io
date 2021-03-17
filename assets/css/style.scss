@@ -1,8 +1,13 @@
 ---
 ---
 
-$header-bg-color: #1e6bb8;
-$header-bg-color-secondary: #7EA7D3;
+$header-bg-color: #FF0000;
+$header-bg-color-secondary: #FFFFFF;
+
+$body-link-color: #FF0000;
+$blockquote-text-color: #FF0000;
+
+$code-text-color: #FF0000;
 
 @import "{{ site.theme }}";
 
